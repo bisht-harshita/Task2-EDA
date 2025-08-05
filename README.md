@@ -1,4 +1,4 @@
-# Task 2: Data Analysis & Visualization
+# Data Analysis & Visualization
 
 ## 🎯 Objective
 
